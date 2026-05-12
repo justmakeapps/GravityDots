@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/dialog_level_complete.xml",
+        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/dialog_level_complete.xml"
+    },
+    {
+        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/fragment_settings.xml",
+        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/fragment_home.xml",
+        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/fragment_game.xml",
+        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/fragment_level_select.xml",
+        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_level_select.xml"
+    },
+    {
+        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/dialog_level_failed.xml",
+        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/dialog_level_failed.xml"
+    },
+    {
+        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/dialog_out_of_walls.xml",
+        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/dialog_out_of_walls.xml"
+    }
+]
