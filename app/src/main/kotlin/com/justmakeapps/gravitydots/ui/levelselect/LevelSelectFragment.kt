@@ -75,6 +75,7 @@ class LevelSelectFragment : Fragment() {
                     height = cellSize
                     setMargins(3, 3, 3, 3)
                 }
+
                 layoutParams = lp
                 text = buildString {
                     append(level.number.toString())
