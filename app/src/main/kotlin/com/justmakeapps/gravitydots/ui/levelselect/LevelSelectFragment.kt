@@ -15,6 +15,7 @@ import com.justmakeapps.gravitydots.data.LevelRepository
 import com.justmakeapps.gravitydots.databinding.FragmentLevelSelectBinding
 import com.justmakeapps.gravitydots.ui.game.AdManagerProvider
 import com.justmakeapps.gravitydots.ui.game.GameFragment
+import androidx.core.graphics.toColorInt
 
 class LevelSelectFragment : Fragment() {
 
@@ -92,7 +93,7 @@ class LevelSelectFragment : Fragment() {
                 )
                 setTextColor(
                     if (isUnlocked) android.graphics.Color.WHITE
-                    else android.graphics.Color.parseColor("#888780")
+                    else "#888780".toColorInt()
                 )
                 setOnClickListener {
                     if (!isUnlocked) return@setOnClickListener
