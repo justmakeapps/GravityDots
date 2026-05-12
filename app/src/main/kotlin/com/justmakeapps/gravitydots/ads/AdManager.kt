@@ -9,8 +9,8 @@ import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback
 
 // Replace test IDs with real ones before publishing
 object AdIds {
-    const val BANNER    = "ca-app-pub-3940256099942544/6300978111"
-    const val REWARDED  = "ca-app-pub-3940256099942544/5224354917"
+    const val BANNER    = "ca-app-pub-3307436672128190/8185634433"
+    const val REWARDED  = "ca-app-pub-3307436672128190/3517201078"
 }
 
 class AdManager(private val context: Context) {
