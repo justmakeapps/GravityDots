@@ -1,122 +1,126 @@
 [
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_circle_dot.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/circle_dot.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/layout_fragment_level_select.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/fragment_level_select.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/layout_fragment_settings.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_settings.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_dark_circle.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/btn_dark_circle.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_ic_star.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/ic_star.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_card_bg.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/card_bg.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/layout_fragment_settings.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/fragment_settings.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_dialog_bg.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/dialog_bg.xml"
-    },
-    {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_level_locked.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/btn_level_locked.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_dialog_bg.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/dialog_bg.xml"
     },
     {
         "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/layout_fragment_home.xml.flat",
         "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_card_purple.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/card_purple.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/layout_activity_main.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/activity_main.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_bg_circle_light.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/bg_circle_light.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_ic_star.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/ic_star.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/layout_dialog_level_complete.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/dialog_level_complete.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/layout_dialog_level_complete.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/dialog_level_complete.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_card_bg.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/card_bg.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/layout_fragment_level_select.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_level_select.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_bg_circle_light.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/bg_circle_light.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/layout_dialog_level_failed.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/dialog_level_failed.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/layout_dialog_out_of_walls.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/dialog_out_of_walls.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/layout_fragment_game.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_game.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_ic_play_triangle.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/ic_play_triangle.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_ic_play_triangle.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/ic_play_triangle.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/layout_activity_main.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/activity_main.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_level_unlocked.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/btn_level_unlocked.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_light.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/btn_light.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/layout_fragment_game.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/fragment_game.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/layout_dialog_out_of_walls.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/dialog_out_of_walls.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_dark.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/btn_dark.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_light.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/btn_light.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_level_locked.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/btn_level_locked.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_level_unlocked.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/btn_level_unlocked.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_dark.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/btn_dark.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/layout_dialog_level_failed.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/dialog_level_failed.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/drawable_btn_dark_circle.xml.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/drawable/btn_dark_circle.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_circle_dot.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/circle_dot.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/drawable_card_purple.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/drawable/card_purple.xml"
+    },
+    {
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-merged_res-46:/layout_fragment_home.xml.flat",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/fragment_home.xml"
     }
 ]

@@ -98,7 +98,7 @@
 57-->/Users/vachemumchyan/Desktop/justmakeapps/GravityDots/app/src/main/AndroidManifest.xml:16:9-18:69
 58            android:name="com.google.android.gms.ads.APPLICATION_ID"
 58-->/Users/vachemumchyan/Desktop/justmakeapps/GravityDots/app/src/main/AndroidManifest.xml:17:13-69
-59            android:value="ca-app-pub-3940256099942544~3347511713" />
+59            android:value="ca-app-pub-3307436672128190~6134186160" />
 59-->/Users/vachemumchyan/Desktop/justmakeapps/GravityDots/app/src/main/AndroidManifest.xml:18:13-67
 60
 61        <activity
