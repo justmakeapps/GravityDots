@@ -25,13 +25,7 @@ public final class FragmentSettingsBinding implements ViewBinding {
   public final ImageButton btnBack;
 
   @NonNull
-  public final Button btnRemoveAds;
-
-  @NonNull
   public final Button btnResetProgress;
-
-  @NonNull
-  public final Button btnRestorePurchases;
 
   @NonNull
   public final SwitchCompat switchHaptic;
@@ -43,14 +37,11 @@ public final class FragmentSettingsBinding implements ViewBinding {
   public final SwitchCompat switchSound;
 
   private FragmentSettingsBinding(@NonNull LinearLayout rootView, @NonNull ImageButton btnBack,
-      @NonNull Button btnRemoveAds, @NonNull Button btnResetProgress,
-      @NonNull Button btnRestorePurchases, @NonNull SwitchCompat switchHaptic,
+      @NonNull Button btnResetProgress, @NonNull SwitchCompat switchHaptic,
       @NonNull SwitchCompat switchHints, @NonNull SwitchCompat switchSound) {
     this.rootView = rootView;
     this.btnBack = btnBack;
-    this.btnRemoveAds = btnRemoveAds;
     this.btnResetProgress = btnResetProgress;
-    this.btnRestorePurchases = btnRestorePurchases;
     this.switchHaptic = switchHaptic;
     this.switchHints = switchHints;
     this.switchSound = switchSound;
@@ -89,21 +80,9 @@ public final class FragmentSettingsBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.btn_remove_ads;
-      Button btnRemoveAds = ViewBindings.findChildViewById(rootView, id);
-      if (btnRemoveAds == null) {
-        break missingId;
-      }
-
       id = R.id.btn_reset_progress;
       Button btnResetProgress = ViewBindings.findChildViewById(rootView, id);
       if (btnResetProgress == null) {
-        break missingId;
-      }
-
-      id = R.id.btn_restore_purchases;
-      Button btnRestorePurchases = ViewBindings.findChildViewById(rootView, id);
-      if (btnRestorePurchases == null) {
         break missingId;
       }
 
@@ -125,8 +104,8 @@ public final class FragmentSettingsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentSettingsBinding((LinearLayout) rootView, btnBack, btnRemoveAds,
-          btnResetProgress, btnRestorePurchases, switchHaptic, switchHints, switchSound);
+      return new FragmentSettingsBinding((LinearLayout) rootView, btnBack, btnResetProgress,
+          switchHaptic, switchHints, switchSound);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

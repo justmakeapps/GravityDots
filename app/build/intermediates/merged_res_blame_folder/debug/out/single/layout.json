@@ -4,12 +4,12 @@
         "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/fragment_settings.xml"
     },
     {
-        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/fragment_game.xml",
-        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/fragment_game.xml"
+        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/fragment_settings.xml",
+        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_settings.xml"
     },
     {
-        "merged": "com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/fragment_home.xml",
-        "source": "com.justmakeapps.gravitydots.app-main-48:/layout/fragment_home.xml"
+        "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/fragment_game.xml",
+        "source": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-main-48:/layout/fragment_game.xml"
     },
     {
         "merged": "/Users/vachemumchyan/.gradle/daemon/9.0-milestone-1/com.justmakeapps.gravitydots.app-mergeDebugResources-45:/layout/dialog_level_failed.xml",

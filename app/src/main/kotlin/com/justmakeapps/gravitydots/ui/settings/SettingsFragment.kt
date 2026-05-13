@@ -31,28 +31,10 @@ class SettingsFragment : Fragment() {
         binding.switchHaptic.setOnCheckedChangeListener { _, checked -> prefs.setHapticEnabled(checked) }
         binding.switchHints.setOnCheckedChangeListener { _, checked -> prefs.setHintsEnabled(checked) }
 
-        binding.btnRemoveAds.setOnClickListener {
-            // In production: launch billing flow here
-            prefs.adsRemoved = true
-            Toast.makeText(requireContext(), "Ads removed! Thank you.", Toast.LENGTH_SHORT).show()
-            binding.btnRemoveAds.isEnabled = false
-            binding.btnRemoveAds.alpha = 0.5f
-        }
-
-        binding.btnRestorePurchases.setOnClickListener {
-            Toast.makeText(requireContext(), "Checking purchases…", Toast.LENGTH_SHORT).show()
-        }
-
         binding.btnResetProgress.setOnClickListener {
             prefs.highestUnlockedLevel = 1
             prefs.bonusWalls = 0
             Toast.makeText(requireContext(), "Progress reset.", Toast.LENGTH_SHORT).show()
-        }
-
-        if (prefs.adsRemoved) {
-            binding.btnRemoveAds.isEnabled = false
-            binding.btnRemoveAds.alpha = 0.5f
-            binding.btnRemoveAds.text = "ads removed"
         }
     }
 

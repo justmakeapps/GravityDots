@@ -53,36 +53,6 @@
                     android:layout_width="wrap_content" android:layout_height="wrap_content"/>
             </LinearLayout>
 
-            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
-                android:background="@drawable/card_purple" android:orientation="horizontal"
-                android:gravity="center_vertical" android:padding="14dp" android:layout_marginBottom="8dp">
-                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical">
-                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
-                        android:text="Remove ads" android:textColor="@color/purple_dark"
-                        android:textSize="14sp" android:textStyle="bold"/>
-                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
-                        android:text="one-time purchase" android:textColor="@color/purple"
-                        android:textSize="11sp"/>
-                </LinearLayout>
-                <Button android:id="@+id/btn_remove_ads"
-                    android:layout_width="wrap_content" android:layout_height="36dp"
-                    android:text="$1.99" android:textColor="@color/white"
-                    android:background="@drawable/btn_dark" android:textSize="12sp"
-                    android:paddingHorizontal="14dp"/>
-            </LinearLayout>
-
-            <LinearLayout android:layout_width="match_parent" android:layout_height="52dp"
-                android:background="@drawable/card_bg" android:orientation="horizontal"
-                android:gravity="center_vertical" android:padding="14dp" android:layout_marginBottom="8dp">
-                <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"
-                    android:text="Restore purchases" android:textColor="@color/text_primary" android:textSize="14sp"/>
-                <Button android:id="@+id/btn_restore_purchases"
-                    android:layout_width="wrap_content" android:layout_height="34dp"
-                    android:text="restore" android:textSize="11sp"
-                    android:textColor="@color/text_secondary" android:background="@drawable/btn_light"
-                    android:paddingHorizontal="12dp"/>
-            </LinearLayout>
-
             <LinearLayout android:layout_width="match_parent" android:layout_height="52dp"
                 android:background="@drawable/card_bg" android:orientation="horizontal"
                 android:gravity="center_vertical" android:padding="14dp">

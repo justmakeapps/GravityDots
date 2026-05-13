@@ -36,11 +36,9 @@ id btn_back
 id btn_menu
 id btn_next
 id btn_play
-id btn_remove_ads
 id btn_reset
 id btn_reset_progress
 id btn_restart_walls
-id btn_restore_purchases
 id btn_retry
 id btn_retry_complete
 id btn_settings
