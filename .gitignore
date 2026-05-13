@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+app/build/
+captures/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+
+# Local config (signing, SDK paths)
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# Output artifacts
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Kotlin / Java
+*.class
+out/
+
+# Logs / temp
+*.log
+hs_err_pid*
+
+# Generated NDK
+.cxx/
